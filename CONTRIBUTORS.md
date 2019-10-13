@@ -3,6 +3,7 @@
 - [Abbas Abi](https://github.com/AbbasAbi)
 - [Ajey Prasand](https://github.com/ajeyprasand)
 - [Akshi Tak](https://github.com/akshitak)
+- [Albert James](https://github.com/thealbertjames)
 - [Alyssa Columbus](https://github.com/acolum)
 - [Amit Dutta](https://github.com/Amitdutta7)
 - [Andre-Lee](hhttps://github.com/andre-lee)
